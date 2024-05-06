@@ -1,2 +1,2 @@
-# .github
-Avanzar-PC README
+# Avanzar-PC
+Building software to advance Avanzar. 
